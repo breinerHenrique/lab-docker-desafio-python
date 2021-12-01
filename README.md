@@ -6,4 +6,5 @@ Da aplicação, temos apenas o código fonte, sendo necessário entender como a 
 
 A aplicação utilizada nesse desafio é a "Conversão de Distância", acessível via web na porta 5000.
 
-No repositório encontra-se o arquivo dockerfile utilizado para criação da imagem Docker.
+No repositório encontra-se o arquivo dockerfile utilizado para criação da imagem Docker, a qual está disponível em meu repositório dockerhub:
+docker pull docker pull breinerhenrique/desafio-conversor-distancia:v1
